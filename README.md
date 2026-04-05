@@ -1,6 +1,7 @@
 # Asambla_mi-ai_coduL
 
 ## Lectii facute de Claude, cod scris de mine (ai incredere).
+## Mai am si eu modificarile proprii ca sa fie mai riguros.
 
 # x86-64 NASM Loop Mastery Course
 
